@@ -1,0 +1,23 @@
+{
+  "name": "iss_spotter",
+  "version": "1.0.0",
+  "description": "API_iss_project W2D4",
+  "main": "index.js",
+  "scripts": {
+    "test": "~/lighthouse/unit_testing/node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leslieyjkim/iss_spotter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leslieyjkim/iss_spotter/issues"
+  },
+  "homepage": "https://github.com/leslieyjkim/iss_spotter#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
